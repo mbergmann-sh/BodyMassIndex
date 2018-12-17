@@ -6,7 +6,7 @@ This code may still contain some bugs!
 The app uses german language - there are no translations available yet.
 
 # LICENSE
-Copyright (C) 2018/2019 by Michael Bergmann. Placed in the public domain with some restrictions!
+Copyright (C) 2016 by Michael Bergmann. Placed in the public domain with some restrictions!
 
 These files are part of my BodyMassIndex GUI, using classes of the Qt5 toolkit.
 
