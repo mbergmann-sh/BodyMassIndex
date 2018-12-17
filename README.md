@@ -3,6 +3,7 @@ BodyMassIndex (BMI) is a somewhat unfinished, though functional App to calculate
 
 # Warning
 This code may still contain some bugs!
+The app uses german language - there are no translations available yet.
 
 # LICENSE
 Copyright (C) 2018/2019 by Michael Bergmann. Placed in the public domain with some restrictions!
