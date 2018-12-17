@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>img/exit (1).png</file>
+        <file>img/Info.png</file>
+        <file>img/NewDocument.png</file>
+        <file>img/ok.png</file>
+        <file>img/OpenFile.png</file>
+        <file>img/print_printer.png</file>
+        <file>img/recycle.png</file>
+        <file>img/Save.png</file>
+        <file>img/SaveAs.png</file>
+        <file>img/user-group-new.png</file>
+        <file>img/Waage.png</file>
+        <file>img/ktip.png</file>
+        <file>img/kcalc.png</file>
+        <file>img/Pfleger.png</file>
+        <file>img/personenwaage.png</file>
+    </qresource>
+</RCC>
